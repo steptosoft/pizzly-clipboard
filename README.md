@@ -176,3 +176,4 @@ Pizzly is MIT licensed. See the [LICENSE file](https://github.com/Bearer/Pizzly/
 ## Sponsor
 
 Pizzly is proudly sponsored by Bearer, a solution to implement [Privacy by Design](https://www.bearer.sh) processes in developers' workflows and automate GDPR compliance.
+# pizzly-clipboard
