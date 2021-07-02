@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+.webpack
+.env
+
+.envrc
+
+.cache/
+coverage/
+.DS_Store
+dist/
+yarn-error.log
